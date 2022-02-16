@@ -7,6 +7,6 @@ You may reach out to me in case you want a bot commissioned.
 Previous works:
 
 - Developed bot for [MetaGoons](https://discord.gg/FccAYSGwpt)
-- Developing bot for [SneakerNews]()
+- Developing bot for [SneakerNews](https://instagram.com/sneakernews?utm_medium=copy_link)
 - Developed several other personal bots. 
 - Personal Project: [Athix Bot](https://athixbot.ml)
