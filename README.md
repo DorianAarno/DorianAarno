@@ -9,4 +9,4 @@ Previous works:
 - Developed bot for [MetaGoons](https://discord.gg/FccAYSGwpt)
 - Developed bot for [SneakerNews](https://instagram.com/sneakernews?utm_medium=copy_link)
 - Developed several other personal bots. 
-- Personal Project: [Athix Bot](https://athixbot.ml)
+- Personal Project: [Athix Bot](https://top.gg/bot/821412547097395302)
