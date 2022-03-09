@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aarno
 - 👀 I’m interested in programming and development of discord bots.
 - 📫 You can reach out to me on discord (Aarno#0266) and my email (aarnodorian56@gmail.com)
-
+- 🖥️ I can work with python and bootstrap.
+ 
 You may reach out to me in case you want a discord bot created.
 
 Previous works:
